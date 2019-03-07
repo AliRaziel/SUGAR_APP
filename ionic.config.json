@@ -1,0 +1,7 @@
+{
+  "name": "SugarApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

@@ -1,0 +1,19 @@
+/*ion-label{
+background-image: url('/assets/blue.jpg');
+}*/
+ion-list{background-image: url('/assets/blue.jpg');}
+ion-item{background-image: url('/assets/blue.jpg');}
+p{background-image: url('/assets/blue.jpg');}
+//ion-icon{background-image: url('/assets/blue.jpg');}
+ion-content{
+    --ion-background-color: rgb(25, 7, 88);
+    align-content: "center";
+  }
+  .welcome-card ion-img {
+    max-height: 70vh;
+    overflow: hidden;
+  }
+  .ajustar{
+    max-height: 100px;
+    max-width: 125px;
+  }
